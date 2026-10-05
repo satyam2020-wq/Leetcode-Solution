@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0059-spiral-matrix-ii) |
+| [0075-sort-colors](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0283-move-zeroes) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0283-move-zeroes) |
 ## Binary Search
@@ -129,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0053-maximum-subarray) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
