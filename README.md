@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0136-single-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0189-rotate-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0191-number-of-1-bits) |
