@@ -160,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0075-sort-colors) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
