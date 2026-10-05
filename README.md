@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0881-boats-to-save-people) |
 | [0885-spiral-matrix-iii](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0885-spiral-matrix-iii) |
+| [0918-maximum-sum-circular-subarray](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1089-duplicate-zeros) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0338-counting-bits) |
+| [0918-maximum-sum-circular-subarray](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Bit Manipulation
 |  |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0191-number-of-1-bits) |
+| [0918-maximum-sum-circular-subarray](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0918-maximum-sum-circular-subarray) |
 ## Quicksort
 |  |
 | ------- |
@@ -228,4 +231,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0881-boats-to-save-people) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
