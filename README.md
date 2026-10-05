@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0041-first-missing-positive) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0283-move-zeroes) |
 ## Binary Search
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0338-counting-bits](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0371-sum-of-two-integers) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
