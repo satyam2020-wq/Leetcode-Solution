@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0059-spiral-matrix-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0283-move-zeroes](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0304-range-sum-query-2d-immutable) |
 | [0498-diagonal-traverse](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0566-reshape-the-matrix) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0283-move-zeroes](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
