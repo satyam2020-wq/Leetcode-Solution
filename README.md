@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0885-spiral-matrix-iii](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0885-spiral-matrix-iii) |
 | [0922-sort-array-by-parity-ii](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1314-matrix-block-sum](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1314-matrix-block-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0922-sort-array-by-parity-ii](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1089-duplicate-zeros) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
