@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0304-range-sum-query-2d-immutable) |
 | [0498-diagonal-traverse](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0498-diagonal-traverse) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0041-first-missing-positive) |
+| [0268-missing-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0840-magic-squares-in-grid](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0840-magic-squares-in-grid) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0371-sum-of-two-integers) |
 | [0840-magic-squares-in-grid](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0840-magic-squares-in-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -118,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -146,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0371-sum-of-two-integers) |
 ## Greedy
