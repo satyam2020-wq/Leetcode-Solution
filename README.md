@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0304-range-sum-query-2d-immutable) |
 | [0498-diagonal-traverse](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0566-reshape-the-matrix) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0766-toeplitz-matrix) |
