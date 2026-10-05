@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1920-build-array-from-permutation](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
