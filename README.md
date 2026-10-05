@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0059-spiral-matrix-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0304-range-sum-query-2d-immutable) |
 | [0498-diagonal-traverse](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0498-diagonal-traverse) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2226-maximum-candies-allocated-to-k-children) |
