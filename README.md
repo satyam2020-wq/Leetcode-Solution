@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0069-sqrtx) |
+| [0371-sum-of-two-integers](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0371-sum-of-two-integers) |
 | [0840-magic-squares-in-grid](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0840-magic-squares-in-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Simulation
@@ -110,4 +111,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
