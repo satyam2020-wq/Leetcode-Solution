@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting Sort
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Ternary Search
 |  |
