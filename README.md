@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0304-range-sum-query-2d-immutable) |
 | [0498-diagonal-traverse](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0566-reshape-the-matrix) |
+| [0611-valid-triangle-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0704-binary-search) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0268-missing-number) |
+| [0611-valid-triangle-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0905-sort-array-by-parity) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0283-move-zeroes) |
+| [0611-valid-triangle-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0881-boats-to-save-people) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0268-missing-number) |
+| [0611-valid-triangle-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0704-binary-search) |
@@ -234,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0011-container-with-most-water) |
+| [0611-valid-triangle-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0948-bag-of-tokens) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
