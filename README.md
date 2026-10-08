@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0771-jewels-and-stones](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0771-jewels-and-stones) |
 | [0840-magic-squares-in-grid](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0840-magic-squares-in-grid) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -326,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0986-interval-list-intersections) |
+## String
+|  |
+| ------- |
+| [0771-jewels-and-stones](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0771-jewels-and-stones) |
 <!---LeetCode Topics End-->
