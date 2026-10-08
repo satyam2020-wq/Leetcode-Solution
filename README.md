@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0922-sort-array-by-parity-ii) |
 | [0948-bag-of-tokens](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0986-interval-list-intersections) |
 | [1089-duplicate-zeros](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1314-matrix-block-sum](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1314-matrix-block-sum) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0922-sort-array-by-parity-ii) |
 | [0948-bag-of-tokens](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0986-interval-list-intersections) |
 | [1089-duplicate-zeros](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1089-duplicate-zeros) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -317,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2396-strictly-palindromic-number) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
