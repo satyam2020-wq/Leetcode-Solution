@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0371-sum-of-two-integers) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -337,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
