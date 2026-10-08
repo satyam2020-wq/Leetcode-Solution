@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0304-range-sum-query-2d-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0498-diagonal-traverse](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0566-reshape-the-matrix) |
 | [0611-valid-triangle-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0611-valid-triangle-number) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0840-magic-squares-in-grid](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0840-magic-squares-in-grid) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0881-boats-to-save-people) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
@@ -203,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
