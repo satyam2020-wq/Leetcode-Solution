@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3875-construct-uniform-parity-array-i](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0840-magic-squares-in-grid) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Math
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2396-strictly-palindromic-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2396-strictly-palindromic-number) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
