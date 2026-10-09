@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0566-reshape-the-matrix) |
 | [0611-valid-triangle-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0704-binary-search) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0645-set-mismatch](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0771-jewels-and-stones) |
 | [0840-magic-squares-in-grid](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0611-valid-triangle-number) |
+| [0645-set-mismatch](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0905-sort-array-by-parity) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0371-sum-of-two-integers) |
+| [0645-set-mismatch](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0645-set-mismatch) |
 ## Greedy
 |  |
 | ------- |
