@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0658-find-k-closest-elements) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0766-toeplitz-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0840-magic-squares-in-grid) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0645-set-mismatch) |
+| [0705-design-hashset](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0771-jewels-and-stones) |
 | [0840-magic-squares-in-grid](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0304-range-sum-query-2d-immutable) |
+| [0705-design-hashset](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0705-design-hashset) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -355,4 +358,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0202-happy-number) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
