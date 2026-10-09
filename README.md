@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1672-richest-customer-wealth](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Math
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1748-sum-of-unique-elements](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
 ## Two Pointers
 |  |
 | ------- |
