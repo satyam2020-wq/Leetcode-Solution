@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0771-jewels-and-stones) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
 ## Two Pointers
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0771-jewels-and-stones) |
 ## Pigeonhole Principle
 |  |
