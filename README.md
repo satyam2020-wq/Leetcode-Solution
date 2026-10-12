@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
