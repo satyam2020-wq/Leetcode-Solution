@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0986-interval-list-intersections) |
+| [1014-best-sightseeing-pair](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1014-best-sightseeing-pair) |
 | [1089-duplicate-zeros](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0338-counting-bits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0918-maximum-sum-circular-subarray) |
+| [1014-best-sightseeing-pair](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1014-best-sightseeing-pair) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Bit Manipulation
 |  |
