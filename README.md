@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2563-count-the-number-of-fair-pairs](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
 |  |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting Sort
 |  |
 | ------- |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0948-bag-of-tokens) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Divide and Conquer
 |  |
 | ------- |
