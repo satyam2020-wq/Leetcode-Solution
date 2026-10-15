@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0137-single-number-ii) |
+| [0149-max-points-on-a-line](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0041-first-missing-positive) |
+| [0149-max-points-on-a-line](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0217-contains-duplicate) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0069-sqrtx) |
+| [0149-max-points-on-a-line](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0204-count-primes) |
@@ -464,4 +467,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0204-count-primes) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
