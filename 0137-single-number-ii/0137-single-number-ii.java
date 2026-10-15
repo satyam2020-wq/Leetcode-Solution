@@ -1,5 +1,7 @@
+// Time Complexity: O(n log n)
+// Space Complexity: O(log n)
 class Solution {
-    public int singleNumber(int[] nums) {
+     public int singleNumber(int[] nums) {
         Arrays.sort(nums);
 
         for (int i = 1; i < nums.length; i += 3) {
@@ -8,6 +10,7 @@ class Solution {
             }
         }
 
+        // If the single number is at the end.
         return nums[nums.length - 1];
     }
 }
