@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0371-sum-of-two-integers) |
 | [0633-sum-of-square-numbers](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0152-maximum-product-subarray) |
+| [0233-number-of-digit-one](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0233-number-of-digit-one) |
 | [0338-counting-bits](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0338-counting-bits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [1014-best-sightseeing-pair](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1014-best-sightseeing-pair) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0233-number-of-digit-one) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
