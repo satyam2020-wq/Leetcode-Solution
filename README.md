@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2574-left-and-right-sum-differences](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2574-left-and-right-sum-differences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/3875-construct-uniform-parity-array-i) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1991-find-the-middle-index-in-array) |
+| [2574-left-and-right-sum-differences](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2574-left-and-right-sum-differences) |
 ## Sorting
 |  |
 | ------- |
