@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2270-number-of-ways-to-split-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2270-number-of-ways-to-split-array) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2574-left-and-right-sum-differences) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1991-find-the-middle-index-in-array) |
+| [2270-number-of-ways-to-split-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2270-number-of-ways-to-split-array) |
 | [2574-left-and-right-sum-differences](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2574-left-and-right-sum-differences) |
 ## Sorting
 |  |
