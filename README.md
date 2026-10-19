@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1829-maximum-xor-for-each-query](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1829-maximum-xor-for-each-query) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1920-build-array-from-permutation](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1920-build-array-from-permutation) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1732-find-the-highest-altitude) |
+| [1829-maximum-xor-for-each-query](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1829-maximum-xor-for-each-query) |
 | [1991-find-the-middle-index-in-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1991-find-the-middle-index-in-array) |
 | [2256-minimum-average-difference](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2256-minimum-average-difference) |
 | [2270-number-of-ways-to-split-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2270-number-of-ways-to-split-array) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0645-set-mismatch) |
 | [1310-xor-queries-of-a-subarray](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1310-xor-queries-of-a-subarray) |
+| [1829-maximum-xor-for-each-query](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1829-maximum-xor-for-each-query) |
 ## Greedy
 |  |
 | ------- |
