@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1310-xor-queries-of-a-subarray](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1310-xor-queries-of-a-subarray) |
 | [1314-matrix-block-sum](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1314-matrix-block-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1389-create-target-array-in-the-given-order) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0304-range-sum-query-2d-immutable) |
 | [0724-find-pivot-index](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0724-find-pivot-index) |
+| [1310-xor-queries-of-a-subarray](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1310-xor-queries-of-a-subarray) |
 | [1314-matrix-block-sum](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1314-matrix-block-sum) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1480-running-sum-of-1d-array) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0645-set-mismatch) |
+| [1310-xor-queries-of-a-subarray](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1310-xor-queries-of-a-subarray) |
 ## Greedy
 |  |
 | ------- |
