@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0766-toeplitz-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0840-magic-squares-in-grid) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0881-boats-to-save-people) |
 | [0885-spiral-matrix-iii](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0885-spiral-matrix-iii) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0611-valid-triangle-number) |
+| [0860-lemonade-change](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0948-bag-of-tokens) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
