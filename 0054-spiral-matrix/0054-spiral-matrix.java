@@ -3,39 +3,43 @@ class Solution {
 
         List<Integer> result = new ArrayList<>();
 
-        int startingRow = 0;
-        int endingRow = matrix.length - 1;
-        int startingCol = 0;
-        int endingCol = matrix[0].length - 1;
+        if (matrix == null || matrix.length == 0) {
+           return result;
+        }
 
-        while (startingRow <= endingRow && startingCol <= endingCol) {
+        int left = 0;
+        int right = matrix[0].length - 1;
+        int top = 0;
+        int bottom = matrix.length - 1;
 
-            // Row wise: Left -> Right
-            for (int col = startingCol; col <= endingCol; col++) {
-                result.add(matrix[startingRow][col]);
+        while (left <= right && top <= bottom) {
+
+            // Traverse left to right
+            for (int i = left; i <= right; i++) {
+                result.add(matrix[top][i]);
             }
-            startingRow++;
+            top++;
 
-            // Col wise: Top -> Bottom
-            for (int row = startingRow; row <= endingRow; row++) {
-                result.add(matrix[row][endingCol]);
+            // Traverse top to bottom
+            for (int i = top; i <= bottom; i++) {
+                result.add(matrix[i][right]);
             }
-            endingCol--;
+            right--;
 
-            // Row wise: Right -> Left
-            if (startingRow <= endingRow) {
-                for (int col = endingCol; col >= startingCol; col--) {
-                    result.add(matrix[endingRow][col]);
+            // Traverse right to left
+            if (top <= bottom) {
+                for (int i = right; i >= left; i--) {
+                    result.add(matrix[bottom][i]);
                 }
-                endingRow--;
+                bottom--;
             }
 
-            // Col wise: Bottom -> Top
-            if (startingCol <= endingCol) {
-                for (int row = endingRow; row >= startingRow; row--) {
-                    result.add(matrix[row][startingCol]);
+            // Traverse bottom to top
+            if (left <= right) {
+                for (int i = bottom; i >= top; i--) {
+                    result.add(matrix[i][left]);
                 }
-                startingCol++;
+                left++;
             }
         }
 
