@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0149-max-points-on-a-line) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0455-assign-cookies) |
