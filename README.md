@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Math
 |  |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0771-jewels-and-stones) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Pigeonhole Principle
 |  |
 | ------- |
