@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0766-toeplitz-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0840-magic-squares-in-grid) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0771-jewels-and-stones) |
 | [0840-magic-squares-in-grid](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0304-range-sum-query-2d-immutable) |
 | [0705-design-hashset](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0706-design-hashmap) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -467,10 +470,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0706-design-hashmap) |
 ## Bucket Sort
 |  |
 | ------- |
