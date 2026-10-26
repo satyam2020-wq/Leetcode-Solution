@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0922-sort-array-by-parity-ii) |
 | [0948-bag-of-tokens](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0948-bag-of-tokens) |
+| [0954-array-of-doubled-pairs](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0954-array-of-doubled-pairs) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0986-interval-list-intersections) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0771-jewels-and-stones) |
 | [0840-magic-squares-in-grid](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0840-magic-squares-in-grid) |
+| [0954-array-of-doubled-pairs](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0954-array-of-doubled-pairs) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1207-unique-number-of-occurrences) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0922-sort-array-by-parity-ii) |
 | [0948-bag-of-tokens](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0948-bag-of-tokens) |
+| [0954-array-of-doubled-pairs](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0954-array-of-doubled-pairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0948-bag-of-tokens) |
+| [0954-array-of-doubled-pairs](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0954-array-of-doubled-pairs) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
