@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0493-reverse-pairs) |
 | [0498-diagonal-traverse](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0566-reshape-the-matrix) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0611-valid-triangle-number](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0645-set-mismatch) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0706-design-hashmap) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/0771-jewels-and-stones) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/satyam2020-wq/Leetcode-Solution/tree/master/2287-rearrange-characters-to-make-target-string) |
